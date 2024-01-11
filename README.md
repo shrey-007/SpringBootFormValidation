@@ -8,6 +8,7 @@ Questions-:
 3) what is the use of th:classappend="${#fields.hasErrors('userName')}?'is-invalid':''" in input tag?
 4) what is the use of th:each="e : ${#fields.errors('userName')}" in div tag?
 5) what is the use of th:text="${e}" in div tag?
+6) controller mai model.addAttribute("User",new User()); kiu kra?
 
 
 Answers-:
