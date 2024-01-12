@@ -9,6 +9,7 @@ Questions-:
 4) what is the use of th:each="e : ${#fields.errors('userName')}" in div tag?
 5) what is the use of th:text="${e}" in div tag?
 6) controller mai model.addAttribute("User",new User()); kiu kra?
+7) what is use of BindingResult?
 
 
 Answers-:
